@@ -1,4 +1,3 @@
-```markdown
 # YTScript — Sony Vegas 12–14 effects toolkit
 
 This repository contains:
