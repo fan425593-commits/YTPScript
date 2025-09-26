@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Validate script (manual)",
+      "type": "shell",
+      "command": "echo \"Drop ytpscript.cs into your Vegas Scripts folder or build via Visual Studio targeting .NET 3.5/4.0 if you compile it.\"",
+      "problemMatcher": []
+    }
+  ]
+}
